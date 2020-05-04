@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: ivory;
+    font-size: 1.3rem;
+}
+
+header {
+    background-color: hsl(39, 80%, 44%);
+    display: inline-block;
+    text-align: left;
+    width: 100%;
+    padding-top: 120px;
+}
+
+.bovenaan {
+    background-color: #535353;
+    font: 700 3rem 'Dancing Script', cursive;
+    padding-left: 20px;
+}
+
+.dance {
+    margin: 0;
+}
+
+.banner {
+    width: 100%;
+    background-color: rgb(26, 25, 25);
+    text-align: center;
+}
+
+.banner-img {
+    mix-blend-mode: lighten;
+    border-radius: 10px;
+}
+
+.titel {
+    padding: 20px 0;
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.colofon {
+    padding: 40px;
+    font-style: italic;
+    text-align: right;
+}
+
+.subtitel {
+    text-align: center;
+    text-decoration: underline;
+    padding: 30px;
+}
+
+p {
+    padding: 0 30px;
+    text-indent: 50px;
+}
+
+ol {
+    list-style-position: inside;
+    text-align: center;
+}
+
+.alfabet {
+    list-style: lower-alpha;
+    list-style-position: inside;
+    text-align: center;
+}
+
+.notes {
+    padding: 20px;
+}
